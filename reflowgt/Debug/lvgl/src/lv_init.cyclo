@@ -1,0 +1,6 @@
+../lvgl/src/draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../lvgl/src/lv_init.c:112:20:lv_global_init	3
+../lvgl/src/lv_init.c:144:20:lv_cleanup_devices	3
+../lvgl/src/lv_init.c:155:6:lv_is_initialized	1
+../lvgl/src/lv_init.c:165:6:lv_init	4
+../lvgl/src/lv_init.c:384:6:lv_deinit	3

@@ -1,0 +1,10 @@
+../lvgl/src/draw/sw/../../misc/lv_area.h:107:20:lv_area_copy	1
+../lvgl/src/draw/sw/blend/../../../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../lvgl/src/draw/sw/lv_draw_sw_img.c:94:6:lv_draw_sw_layer	4
+../lvgl/src/draw/sw/lv_draw_sw_img.c:187:6:lv_draw_sw_image	2
+../lvgl/src/draw/sw/lv_draw_sw_img.c:202:13:img_draw_core	25
+../lvgl/src/draw/sw/lv_draw_sw_img.c:292:13:radius_only	8
+../lvgl/src/draw/sw/lv_draw_sw_img.c:371:13:recolor_only	6
+../lvgl/src/draw/sw/lv_draw_sw_img.c:434:13:transform_and_recolor	17
+../lvgl/src/draw/sw/lv_draw_sw_img.c:541:13:recolor	11
+../lvgl/src/draw/sw/lv_draw_sw_img.c:602:13:apply_mask	8
